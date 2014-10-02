@@ -6,7 +6,7 @@ tubersBlackWordsConfig["yogscast lewis & simon"] = ["hole diggers", "landmark"];
 tubersBlackWordsConfig["docm77"] = ["civilization v"];
 tubersBlackWordsConfig["imanderZEL"] = ["battlefield 4"];
 tubersBlackWordsConfig["generikb"] = ["crash landing"];
-tubersBlackWordsConfig["captainSparklez"] = ["five nights", "minite", "super modded"];
+tubersBlackWordsConfig["captainSparklez"] = ["five nights", "mianite", "super modded"];
 tubersBlackWordsConfig["yogscast martyn"] = ["tOmoDachi"];
 tubersBlackWordsConfig["paulsoaresjr"] = ["the escapists"];
 
