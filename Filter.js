@@ -9,6 +9,7 @@ tubersBlackWordsConfig["generikb"] = ["crash landing"];
 tubersBlackWordsConfig["captainSparklez"] = ["five nights", "mianite", "super modded"];
 tubersBlackWordsConfig["yogscast martyn"] = ["tOmoDachi"];
 tubersBlackWordsConfig["paulsoaresjr"] = ["the escapists"];
+tubersBlackWordsConfig["zisteau"] = ["rollercoaster"];
 
 var tubersBlackWords = {};
 //convert all tuber names and keywords to lower case
